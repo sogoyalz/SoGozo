@@ -1,4 +1,5 @@
 <!-- 🌀 Animated Banner -->
+
 <p align="center">
   <img src="https://i.ibb.co/4SphWKK/animated-banner.gif" alt="Animated Banner" width="100%"/>
 </p>
